@@ -106,6 +106,7 @@ dbt test
 # Generate docs
 dbt docs generate
 dbt docs serve
-
+```
+--
 ## License
 This project is published under the MIT License — feel free to fork, explore, and enhance.
